@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-task-exercise/static/css/main.ce6ef12f.chunk.css",
+    "main.js": "/react-task-exercise/static/js/main.6d42c925.chunk.js",
+    "main.js.map": "/react-task-exercise/static/js/main.6d42c925.chunk.js.map",
+    "runtime-main.js": "/react-task-exercise/static/js/runtime-main.d5a4b68b.js",
+    "runtime-main.js.map": "/react-task-exercise/static/js/runtime-main.d5a4b68b.js.map",
+    "static/js/2.e24c91a9.chunk.js": "/react-task-exercise/static/js/2.e24c91a9.chunk.js",
+    "static/js/2.e24c91a9.chunk.js.map": "/react-task-exercise/static/js/2.e24c91a9.chunk.js.map",
+    "index.html": "/react-task-exercise/index.html",
+    "static/css/main.ce6ef12f.chunk.css.map": "/react-task-exercise/static/css/main.ce6ef12f.chunk.css.map",
+    "static/js/2.e24c91a9.chunk.js.LICENSE.txt": "/react-task-exercise/static/js/2.e24c91a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a4b68b.js",
+    "static/js/2.e24c91a9.chunk.js",
+    "static/css/main.ce6ef12f.chunk.css",
+    "static/js/main.6d42c925.chunk.js"
+  ]
+}
